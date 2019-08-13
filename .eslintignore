@@ -1,0 +1,7 @@
+/build/
+/config/
+/dist/
+/*.js
+
+
+/eslint要规范化的文件除了哪些文件
